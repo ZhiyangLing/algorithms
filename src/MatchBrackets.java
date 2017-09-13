@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  * Created by lzy on 17-9-11.
+ * 统计括号序列的深度 ()(())深度为2 ()深度为1
  */
 public class MatchBrackets {
     public static int count(String s) {
